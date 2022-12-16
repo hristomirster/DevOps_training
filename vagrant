@@ -1,6 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
+#Start
 Vagrant.configure(2) do |config|
     
   config.ssh.insert_key = false
